@@ -5,6 +5,7 @@ This project was developed as part of a volunteer initiative through the Univers
 
 As a Computer Science student, I chose to design and develop a website that presents the data in an engaging, user-friendly, and visually appealing format. The goal was to make the information easier to explore while demonstrating how web technologies can be used to communicate real-world data effectively.
 
+Live website : https://amohan05251.github.io/Marple-village-data-mapping-/
 ### Project Objectives
 - Transform raw community data into an interactive website.
 - Improve the accessibility and readability of the information.
